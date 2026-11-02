@@ -1,0 +1,5 @@
+101 Rahul 22 Fever
+102 Amit 25 Cold
+103 Priya 21 Headache
+104 Sneha 23 Allergy
+105 Rohan 24 Infection
